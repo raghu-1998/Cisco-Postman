@@ -2,8 +2,8 @@
 HI this is updated master file by Raghunath
 second updated at 13:16PM 03-MAY-2021
 Raghunath Kummaraguntla, MSc Tech (Fiber Opt Commn), MBA (Project Mgmt)
-Telecommunication Professional with 20 Yrs Experience 
-Experienced Telecom Professional in implementing :
+
+Experienced Telecom Professional (20 Yrs) in implementing :
 - Operations & Maintenance of Telecom network for carrier service providers (Reliance & Bharti) in India,
 - SCADA Telemetry Network for cross country oil and gas pipeline projects of KOC in Kuwait.
 - Telecom Systems Commissioning in BP Khazzan Phase-2 Gas Project in Oman.
