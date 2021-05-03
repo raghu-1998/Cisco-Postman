@@ -1,5 +1,11 @@
 !master file
 HI this is updated master file by Raghunath
 second updated at 13:16PM 03-MAY-2021
-Raghunath Kummaraguntla, MSc Tech (Fiber Opt Commn), MBA (Project Mgmt), PMP®, CCNP®, CFHP® ,IEEE WCP®
+Raghunath Kummaraguntla, MSc Tech (Fiber Opt Commn), MBA (Project Mgmt)
 Telecommunication Professional with 20 Yrs Experience 
+Experienced Telecom Professional in implementing :
+- Operations & Maintenance of Telecom network for carrier service providers (Reliance & Bharti) in India,
+- SCADA Telemetry Network for cross country oil and gas pipeline projects of KOC in Kuwait.
+- Telecom Systems Commissioning in BP Khazzan Phase-2 Gas Project in Oman.
+
+• Certified Professional in Wireless Communication (IEEE WCET),Fiber to the Home (CFHP) and Project Management (PMP®) 
