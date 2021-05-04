@@ -15,7 +15,7 @@ Experienced Telecom Professional (20 Yrs) in implementing :
   ** Fiber  optic  communication  network  (120Km)  for  SCADA Communication from the RTUs at 9 sectionalizing valve sites along the TL-4 Crude oil transit line to GC-15 control center in North Kuwait 
   ** Motorola Digital VHF Trunked Radio Repeater System in MAA Refinery, Kuwait
 
-- Telecom Systems Commissioning in BP Khazzan Phase-2 Gas Project in Oman. (1 Year)
+- Telecom Systems Commissioning in British Petroleum Khazzan Phase-2 Gas Project in Oman. (1 Year)
    **   End-to-end commissioning of new telecom equipment/devices at Gas Gathering/ Well Head, Communication Backbone Node (CBN) and Tie-in Point locations with integration  in respective core system servers located in Central Processing Facility (CPF) :
 	- LAN switches (Cisco IE 3000) for Utility, Vanilla, ICSS, Safety & Metering  
 	- Access Control System (Genetec Synergis Cloudlink),
