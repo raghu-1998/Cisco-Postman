@@ -8,7 +8,7 @@ Experienced Telecom Professional (20 Yrs) in implementing :
 - Operations & Maintenance of Telecom network for carrier service providers (Reliance & Bharti) in India (7 years)
   ** O&M of Reliance Infocomm's CDMA BTS Network (Lucent Technologies Flexent CDMA Modular Cell BTS and Fiber Optic Transmission Network at strategic maintenance points (Kadapa & Tirupati) in the state of AP 
   ** Construction of Reliance Infocomm's Fiber to the Building (FTTB) Fixed Access Telephone Network project with Digital Loop Carriers (DLC) and Metro Ethernet Switches in Hyderabad city and suburbs
-  ** Construction of SDH based Fiber Optic Transmission Network connecting Mobile Switching Centers in Hyderabad and Vijayawada with Nortel Networks TN1X/1C, TN4XE, TN16XE.
+  ** Construction of SDH based Fiber Optic Transmission Network connecting AirTel (Bharti Mobile Ltd)  Mobile Switching Centers in Hyderabad and Vijayawada with Nortel Networks TN1X/1C, TN4XE, TN16XE.
 
 - SCADA Telemetry Network for cross country oil and gas pipeline projects of KOC in Kuwait (12 Years) 
   ** FOCS  network  (100  Km)  with  Layer2/3  Industrial Ethernet Switches (Hirschman MACH 4002 & RS30) and backup links through DWDM system for transport of CCTV, SCADA and IP Telephone signals from 16 Sectionalizing Valve Sites along the pipeline to BS-171 in West Kuwait 
