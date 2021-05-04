@@ -11,6 +11,7 @@ Experienced Telecom Professional (20 Yrs) in implementing :
   ** Construction of SDH based Fiber Optic Transmission Network connecting AirTel (Bharti Mobile Ltd)  Mobile Switching Centers in Hyderabad and Vijayawada with Nortel Networks TN1X/1C, TN4XE, TN16XE.
 
 - SCADA Telemetry Network for cross country oil and gas pipeline projects of KOC in Kuwait (12 Years) 
+  ** Design, review, and implementation of Telecom system scope of work (e.g. SDH/DWDM system, Corporate Voice/Data System, pipeline Fiber Optic system) in all the project facilities of ongoing Lower Fars Heavy Oil Project in North Kuwait
   ** FOCS  network  (100  Km)  with  Layer2/3  Industrial Ethernet Switches (Hirschman MACH 4002 & RS30) and backup links through DWDM system for transport of CCTV, SCADA and IP Telephone signals from 16 Sectionalizing Valve Sites along the pipeline to BS-171 in West Kuwait 
   ** Fiber  optic  communication  network  (120Km)  for  SCADA Communication from the RTUs at 9 sectionalizing valve sites along the TL-4 Crude oil transit line to GC-15 control center in North Kuwait 
   ** Motorola Digital VHF Trunked Radio Repeater System in MAA Refinery, Kuwait
