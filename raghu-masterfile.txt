@@ -4,8 +4,22 @@ second updated at 13:16PM 03-MAY-2021
 Raghunath Kummaraguntla, MSc Tech (Fiber Opt Commn), MBA (Project Mgmt)
 
 Experienced Telecom Professional (20 Yrs) in implementing :
+
 - Operations & Maintenance of Telecom network for carrier service providers (Reliance & Bharti) in India,
+  **  O&M of Reliance Infocomm's CDMA BTS Network (Lucent Technologies Flexent CDMA Modular Cell BTS and Fiber Optic Transmission Network at strategic maintenance points (Kadapa & Tirupati) in the state of AP 
+  **  Construction of Reliance Infocomm's Fiber to the Building (FTTB) Fixed Access Telephone Network project with Digital Loop Carriers (DLC) and Metro Ethernet Switches in Hyderabad city and suburbs
+  **  Construction of SDH based Fiber Optic Transmission Network connecting Mobile Switching Centers in Hyderabad and Vijayawada with Nortel Networks TN1X/1C, TN4XE, TN16XE.
+
 - SCADA Telemetry Network for cross country oil and gas pipeline projects of KOC in Kuwait.
+  **   FOCS  network  (100  Km)  with  Layer2/3  Industrial Ethernet Switches (Hirschman MACH 4002 & RS30) and backup links through DWDM system for transport of CCTV, SCADA and IP Telephone signals from 16 Sectionalizing Valve Sites along the pipeline to BS-171 in West Kuwait 
+  **   Fiber  optic  communication  network  (120Km)  for  SCADA Communication from the RTUs at 9 sectionalizing valve sites along the TL-4 Crude oil transit line to GC-15 control center in North Kuwait 
+  **   Motorola Digital VHF Trunked Radio Repeater System in MAA Refinery, Kuwait
+
 - Telecom Systems Commissioning in BP Khazzan Phase-2 Gas Project in Oman.
+   **   End-to-end commissioning of new telecom equipment/devices at Gas Gathering/ Well Head, Communication Backbone Node (CBN) and Tie-in Point locations with integration  in respective core system servers located in Central Processing Facility (CPF) :
+	- LAN switches (Cisco IE 3000) for Utility, Vanilla, ICSS, Safety & Metering  
+	- Access Control System (Genetec Synergis Cloudlink),
+	- Process/Security CCTV System Encoders (Bosch, Moxa) 
+	- Telecom Network Management System Mediation Devices (Moxa io Logik ) 
 
 • Certified Professional in Wireless Communication (IEEE WCET),Fiber to the Home (CFHP) and Project Management (PMP®) 
